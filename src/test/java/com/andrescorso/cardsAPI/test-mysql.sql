@@ -1,0 +1,3 @@
+TRUNCATE TABLE credit_card;
+TRUNCATE TABLE customer;
+TRUNCATE TABLE users;

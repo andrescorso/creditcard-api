@@ -1,0 +1,5 @@
+.box {
+    background-color: #e3ecd7;
+    border: 3px solid transparent;
+    background-clip:padding-box;
+}
